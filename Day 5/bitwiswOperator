@@ -1,0 +1,35 @@
+| OR
+& AND
+^ XOR
+~ Complement
+<< Left shift
+>> signed Right shift
+>>> unsigned Right shift
+
+
+
+OR operator
+
+A    B     REASULT
+0    0       0
+0    1       1
+1    0       1
+1    1       1
+
+
+AND operator
+
+A    B     REASULT
+0    0       0
+0    1       0
+1    0       o
+1    1       1
+
+
+XOR operator(same bit become zero)
+
+A    B     REASULT
+0    0       0
+0    1       1
+1    0       1
+1    1       0
